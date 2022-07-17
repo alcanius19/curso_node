@@ -11,4 +11,4 @@ crearArchivo(base, argv.l,rango)
 
 // console.log(process.argv);
 // console.log(argv);
-//TODO: pendiente ver el video 9
+
